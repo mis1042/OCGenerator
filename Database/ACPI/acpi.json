@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "SSDT_AWAC.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-AWAC.aml"
+  },
+  {
+    "Name": "SSDT-CPUR.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-CPUR.aml"
+  },
+  {
+    "Name": "SSDT-EC-DESKTOP.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-EC-DESKTOP.aml"
+  },
+  {
+    "Name": "SSDT-EC-LAPTOP.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-EC-LAPTOP.aml"
+  },
+  {
+    "Name": "SSDT-EC-USBX-DESKTOP.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-EC-USBX-DESKTOP.aml"
+  },
+  {
+    "Name": "SSDT-EC-USBX-LAPTOP.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml"
+  },
+  {
+    "Name": "SSDT-IMEI-S.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-IMEI-S.aml"
+  },
+  {
+    "Name": "SSDT-IMEI.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-IMEI.aml"
+  },
+  {
+    "Name": "SSDT-PLUG-DRTNIA.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml"
+  },
+  {
+    "Name": "SSDT-PMC.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-PMC.aml"
+  },
+  {
+    "Name": "SSDT-PNLF.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-PNLF.aml"
+  },
+  {
+    "Name": "SSDT-RHUB.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-RHUB.aml"
+  },
+  {
+    "Name": "SSDT-RTC0-RANGE-HEDT.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-RTC0-RANGE-HEDT.aml"
+  },
+  {
+    "Name": "SSDT-UNC.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-UNC.aml"
+  },
+  {
+    "Name": "SSDT-XOSI.aml",
+    "Url": "https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-XOSI.aml"
+  }
+]

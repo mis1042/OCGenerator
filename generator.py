@@ -1,12 +1,3 @@
-from Tools import *
+import Downloader
+Downloader.download()
 
-def Generator(types,processers):
-    if types == "Desktop":
-        pass
-
-    elif types == "Laptop":
-        pass
-    elif types == "HEDT":
-        pass
-    elif types == "AMD":
-        pass

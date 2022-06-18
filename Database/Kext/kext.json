@@ -1,0 +1,170 @@
+[
+  {
+    "Name": "Lilu.kext",
+    "Url": "https://github.com/acidanthera/Lilu"
+  },
+  {
+    "Name": "AppleALC.kext",
+    "Url": "https: //github.com/acidanthera/AppleALC}"
+  },
+  {
+    "Name": "VoodooPS2Controller.kext",
+    "Url": "https://github.com/acidanthera/VoodooPS2"
+  },
+  {
+    "Name": "WhateverGreen.kext",
+    "Url": "https://github.com/acidanthera/WhateverGreen"
+  },
+  {
+    "Name": "VirtualSMC.kext",
+    "Url": "https://github.com/acidanthera/VirtualSMC"
+  },
+  {
+    "Name": "VoodooI2C.kext",
+    "Url": "https://github.com/VoodooI2C/VoodooI2C"
+  },
+  {
+    "Name": "RestrictEvents.kext",
+    "Url": "https://github.com/acidanthera/RestrictEvents"
+  },
+  {
+    "Name": "HibernationFixup.kext",
+    "Url": "https://github.com/acidanthera/HibernationFixup"
+  },
+  {
+    "Name": "BrcmPatchRAM.kext",
+    "Url": "https://github.com/acidanthera/BrcmPatchRAM"
+  },
+  {
+    "Name": "CpuTscSync.kext",
+    "Url": "https://github.com/acidanthera/CpuTscSync"
+  },
+  {
+    "Name": "BrightnessKeys.kext",
+    "Url": "https://github.com/acidanthera/BrightnessKeys"
+  },
+  {
+    "Name": "AirportBrcmFixup.kext",
+    "Url": "https://github.com/acidanthera/AirportBrcmFixup"
+  },
+  {
+    "Name": "RTCMemoryFixup.kext",
+    "Url": "https://github.com/acidanthera/RTCMemoryFixup"
+  },
+  {
+    "Name": "MacHyperVSupport.kext",
+    "Url": "https://github.com/acidanthera/MacHyperVSupport"
+  },
+  {
+    "Name": "NVMeFix.kext",
+    "Url": "https://github.com/acidanthera/NVMeFix"
+  },
+  {
+    "Name": "RealtekCardReader.kext",
+    "Url": "https://github.com/0xFireWolf/RealtekCardReader"
+  },
+  {
+    "Name": "RealtekCardReaderFriend.kext",
+    "Url": "https://github.com/0xFireWolf/RealtekCardReaderFriend"
+  },
+  {
+    "Name": "ECEnabler.kext",
+    "Url": "https://github.com/1Revenger1/ECEnabler"
+  },
+  {
+    "Name": "RealtekRTL8111.kext",
+    "Url": "https://github.com/Mieze/RTL8111_driver_for_OS_X"
+  },
+  {
+    "Name": "CPUFriend.kext",
+    "Url": "https://github.com/acidanthera/CPUFriend"
+  },
+  {
+    "Name": "VoodooInput.kext",
+    "Url": "https://github.com/acidanthera/VoodooInput"
+  },
+  {
+    "Name": "LucyRTL8125Ethernet.kext",
+    "Url": "https://github.com/Mieze/LucyRTL8125Ethernet"
+  },
+  {
+    "Name": "Innie.kext",
+    "Url": "https://github.com/cdf/Innie"
+  },
+  {
+    "Name": "AtherosE2200Ethernet.kext",
+    "Url": "https://github.com/Mieze/AtherosE2200Ethernet"
+  },
+  {
+    "Name": "DebugEnhancer.kext",
+    "Url": "https://github.com/acidanthera/DebugEnhancer"
+  },
+  {
+    "Name": "IntelMausi.kext",
+    "Url": "https://github.com/acidanthera/IntelMausi"
+  },
+  {
+    "Name": "ALC256.kext",
+    "Url": "https://github.com/ic005k/ALC256"
+  },
+  {
+    "Name": "NightShiftEnabler.kext",
+    "Url": "https://github.com/cdf/NightShiftEnabler"
+  },
+  {
+    "Name": "NoTouchID.kext",
+    "Url": "https://github.com/al3xtjames/NoTouchID"
+  },
+  {
+    "Name": "RadeonSensor.kext",
+    "Url": "https://github.com/aluveitie/RadeonSensor"
+  },
+  {
+    "Name": "FakeSMC.kext",
+    "Url": "https://github.com/CloverHackyColor/FakeSMC3_with_plugins"
+  },
+  {
+    "Name": "FeatureUnlock.kext",
+    "Url": "https://github.com/acidanthera/FeatureUnlock"
+  },
+  {
+    "Name": "AMDRyzenCPUPowerManagement.kext",
+    "Url": "https://github.com/trulyspinach/SMCAMDProcessor"
+  },
+  {
+    "Name": "SMCAMDProcessor.kext",
+    "Url": "https://github.com/trulyspinach/SMCAMDProcessor"
+  },
+  {
+    "Name": "USBInjectAll.kext",
+    "Url": "https://github.com/daliansky/OS-X-USB-Inject-All"
+  },
+  {
+    "Name": "IntelBluetoothFirmware.kext",
+    "Url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware"
+  },
+  {
+    "Name": "IntelBluetoothInjector.kext",
+    "Url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware"
+  },
+  {
+    "Name": "AirportItlwm.kext",
+    "Url": "https://github.com/OpenIntelWireless/itlwm"
+  },
+  {
+    "Name": "HoRNDIS9.2.kext",
+    "Url": "https://github.com/w19996/HoRNDIS"
+  },
+  {
+    "Name": "EFICheckDisabler.kext",
+    "Url": "https://github.com/w19996/EFICheckDisabler"
+  },
+  {
+    "Name": "USBPorts-XiaoMiRuby.kext",
+    "Url": "https://github.com/w19996/USBPorts-XiaoMiRuby"
+  },
+  {
+    "Name": "BlueToolFixup.kext",
+    "Url": "https://github.com/acidanthera/BrcmPatchRAM"
+  }
+]
