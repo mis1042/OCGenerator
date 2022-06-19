@@ -1,0 +1,69 @@
+{
+  "ACPI": {
+    "Add": [
+      "SSDT-PLUG-DRTNIA.aml",
+      "SSDT-EC-USBX-LAPTOP.aml",
+      "SSDT-PNLF.aml",
+      "SSDT-XOSI.aml"
+    ],
+    "Patch": [
+      {
+        "Comment": "Change _OSI to XOSI",
+        "Count": 0,
+        "Limit": 0,
+        "Find": "_OSI",
+        "Replace": "XOSI"
+      }
+    ]
+  },
+  "Booter": {
+    "Quirks": [
+      "AvoidRuntimeDefrag,True",
+      "EnableSafeModeSlide,True",
+      "EnableWriteUnprotector,True",
+      "ProvideCustomSlide,True",
+      "SetupVirtualMap,True"
+    ]
+  },
+  "Kernel": {
+    "Quirks": [
+      "AppleXcpmCfgLock,True",
+      "DisableIoMapper,True",
+      "LapicKernelPanic,True",
+      "PanicNoKextDump,True",
+      "PowerTimeoutKernelPanic,True"
+    ]
+  },
+  "Misc": {
+    "Debug": [
+      "AppleDebug,True",
+      "ApplePanic,True",
+      "DisableWatchDog,True",
+      {
+        "Name": "Target",
+        "Value": 67
+      }
+    ],
+    "Security": [
+      "AllowSetDefault,True",
+      "BlacklistAppleUpdate,True",
+      {
+        "Name": "SecureBootModel",
+        "Value": "Default"
+      },
+      {
+        "Name": "Vault",
+        "Value": "Optional"
+      }
+    ]
+  },
+  "UEFI": {
+    "Drivers": [
+      "OpenHfsPlus.efi",
+      "OpenRuntime.efi"
+    ],
+    "Quirks": [
+      "ReleaseUsbOwnership,True"
+    ]
+  }
+}

@@ -26,7 +26,11 @@ def add_patcher(config, comment, count, limit, find, replace):
     """
     content = config.return_plist()
     content['ACPI']['Patch'].append(
-        {'Comment': comment, 'Count': count, 'Enabled': True, 'Find': find, 'Limit': limit, 'Replace': replace})
+        {'Base': '', 'BaseSkip': 0, 'Comment': comment, 'Count': count, 'Enabled': True, 'Find': bytes(find, 'utf-8'),
+         'Limit': limit, 'Mask': b'', 'OemTableId': b'', 'Replace': bytes(replace, 'utf-8'), 'ReplaceMask': b'',
+         'Skip': 0,
+         'TableLength': 0, 'TableSignature': b''}
+    )
     config.edit_plist(content)
 
 

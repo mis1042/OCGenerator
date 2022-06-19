@@ -8,5 +8,5 @@ def add_kext(config, comment, kext, executablepath):
 
 def edit_quirks(config, quirk, status):
     content = config.return_plist()
-    content['Kext']['Quirks'][quirk] = status
+    content['Kernel']['Quirks'][quirk] = status
     config.edit_plist(content)
