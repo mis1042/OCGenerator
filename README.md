@@ -5,3 +5,5 @@
 An automated program that generates OpenCore bootloader configurations
 
 ## Developing
+
+对的我摆烂了，弃用了
